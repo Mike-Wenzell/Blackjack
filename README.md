@@ -1,2 +1,2 @@
 # Blackjack
-SImple Blackjack game. 1st project.
+Simple Blackjack game. 1st project.
